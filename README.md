@@ -1,6 +1,9 @@
 #bem-vindo ao meu perfil
-
-<!--
+meu nome é:Isabella 
+sou estudadante da 1 serie do ensino.médio
+estou interesado(a) nas áreas de exatas
+meu instagram é:@019_belinhaaa
+isabellamacedo@2024.gmail.com
 **belinhamtg019/belinhamtg019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
